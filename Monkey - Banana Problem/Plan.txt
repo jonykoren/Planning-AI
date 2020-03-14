@@ -1,0 +1,7 @@
+﻿PLAN:
+======
+
+(goto p2 p1)
+(push-box p3 p2)
+(climb p3)
+(grab-bananas p3)
